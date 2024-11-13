@@ -1,4 +1,4 @@
-# 项目名称
+# vxlink_ddns
 
 ## 简介
 该项目使用 Python 实现了一个与 vx.link API 交互的工具，能够获取和编辑 vxtrans 的 IPv6 地址。
